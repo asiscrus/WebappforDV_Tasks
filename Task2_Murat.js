@@ -1,9 +1,8 @@
 // TASK 2
-
 // Refactor your code from Task 1 to be based on classes. The goal is to implement logic of numerical integration 
 // in a subclass of Intergrator class and to make it possible to create diffrent subclasses for different integrations methods
+// Provide at least 1 extra integration method in addition to your method from Task 1.
 
-Provide at least 1 extra integration method in addition to your method from Task 1.
 let x = prompt('Value of Integration starting point');
 let n = prompt('Numerical integration step number');
 
